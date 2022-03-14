@@ -1,0 +1,85 @@
+0000000000000000000000000000000000000000 0d430ad22f7ca3f4bf1709424c7ab6a317c13e91 Patrick Zhong <szhong@beckman.com> 1550132249 +0800	clone: from git@github.com:zhongsp/TypeScript.git
+0d430ad22f7ca3f4bf1709424c7ab6a317c13e91 0d430ad22f7ca3f4bf1709424c7ab6a317c13e91 zhongsp <patrick.zhongsp@gmail.com> 1550132502 +0800	checkout: moving from master to pr720
+0d430ad22f7ca3f4bf1709424c7ab6a317c13e91 31b916c2b6638d6d9233831742693d779a31d74e zhongsp <patrick.zhongsp@gmail.com> 1550132517 +0800	commit: Improved Mixins Helper Function to support getters & setters PR720
+31b916c2b6638d6d9233831742693d779a31d74e 0d430ad22f7ca3f4bf1709424c7ab6a317c13e91 zhongsp <patrick.zhongsp@gmail.com> 1550132632 +0800	checkout: moving from pr720 to master
+0d430ad22f7ca3f4bf1709424c7ab6a317c13e91 ce6b8adf4c08a87d771ab6dff4785bb3f8e82f13 zhongsp <patrick.zhongsp@gmail.com> 1550132640 +0800	pull: Fast-forward
+ce6b8adf4c08a87d771ab6dff4785bb3f8e82f13 a901b7a5ad111939e54c66f8875314ad51e9b4ac zhongsp <patrick.zhongsp@gmail.com> 1550132773 +0800	commit: Add code samples: use class expression to implements construct signature. PR742
+a901b7a5ad111939e54c66f8875314ad51e9b4ac 1540f7bf45ce806cd406ee91a9fa97ff03898cdb zhongsp <patrick.zhongsp@gmail.com> 1550132951 +0800	commit: Fix case and adds react-native option to jsx argument. PR766
+1540f7bf45ce806cd406ee91a9fa97ff03898cdb 17d12b06e3274eca7c7afe6a3286e8142abd2293 zhongsp <patrick.zhongsp@gmail.com> 1550133288 +0800	commit: The target of TypeScript is es6. PR767
+17d12b06e3274eca7c7afe6a3286e8142abd2293 4db2358ada34be450fd69db0a5b58572011889b1 zhongsp <patrick.zhongsp@gmail.com> 1550134482 +0800	commit: Update outdated examples in Type Inference article. PR786
+4db2358ada34be450fd69db0a5b58572011889b1 87b9f2fa5188da78f0029e510c211ec8f1dda9b2 zhongsp <patrick.zhongsp@gmail.com> 1550222490 +0800	commit: fix typo. close #240
+87b9f2fa5188da78f0029e510c211ec8f1dda9b2 26b07efe4f96cdfdd997f1f8205ac21167579fd4 zhongsp <patrick.zhongsp@gmail.com> 1550224571 +0800	pull: Fast-forward
+26b07efe4f96cdfdd997f1f8205ac21167579fd4 196862ecdf6672e47877f9e3292a8a8da208b1cb zhongsp <patrick.zhongsp@gmail.com> 1550224614 +0800	revert: Revert "fix typo. close #240"
+196862ecdf6672e47877f9e3292a8a8da208b1cb a1de2e61afdb0f3f1bd252db7ccc228199af9178 zhongsp <patrick.zhongsp@gmail.com> 1550224902 +0800	commit: restore content
+a1de2e61afdb0f3f1bd252db7ccc228199af9178 4011ea232607ce9035218cc820bbb12f3c7d0b6e zhongsp <patrick.zhongsp@gmail.com> 1550225150 +0800	commit: fix typo. close #240
+4011ea232607ce9035218cc820bbb12f3c7d0b6e cc4372bfef9a2abf991dfe759e9b3578753d06cb zhongsp <patrick.zhongsp@gmail.com> 1550225211 +0800	commit: update gitbook content
+cc4372bfef9a2abf991dfe759e9b3578753d06cb bbe4ed4a1d08e65a22077541b799fec824dd76ec zhongsp <patrick.zhongsp@gmail.com> 1551084033 +0800	pull: Fast-forward
+bbe4ed4a1d08e65a22077541b799fec824dd76ec c63d75d4d7cdcd5bc5d79c813b7da2a8899b6183 zhongsp <patrick.zhongsp@gmail.com> 1552635513 +0800	commit: fix typo. PR940
+c63d75d4d7cdcd5bc5d79c813b7da2a8899b6183 bf117739606db31166311c36ebcd41dfc7f92561 zhongsp <patrick.zhongsp@gmail.com> 1552635949 +0800	commit: Added webpack 2 example. PR510
+bf117739606db31166311c36ebcd41dfc7f92561 7bd1ecdf6c1603f313bc6ba14c476b55683f2c7e zhongsp <patrick.zhongsp@gmail.com> 1552636969 +0800	commit: Improve module templates documentation. PR791
+7bd1ecdf6c1603f313bc6ba14c476b55683f2c7e 842ed8e00ec4d922fd70a95160039e7991c2ee7d zhongsp <patrick.zhongsp@gmail.com> 1552637028 +0800	commit: Remove unecessary character from jsx. PR802
+842ed8e00ec4d922fd70a95160039e7991c2ee7d a44c79cdbe013326f1ace079a418d5b66d16673b zhongsp <patrick.zhongsp@gmail.com> 1552637137 +0800	commit: Rephrase "savage" sentence. PR828
+a44c79cdbe013326f1ace079a418d5b66d16673b c35ee0851560cb8c1e557ac065887cc616719a3c zhongsp <patrick.zhongsp@gmail.com> 1552637264 +0800	commit: Fixed Tutorial 'Gulp'. PR809
+c35ee0851560cb8c1e557ac065887cc616719a3c 5a069b877327000a8b2d824b5aa818801f4a0a42 zhongsp <patrick.zhongsp@gmail.com> 1562735972 +0800	pull: Fast-forward
+5a069b877327000a8b2d824b5aa818801f4a0a42 cd1ab992b279af9e1f142ce56160320109710140 zhongsp <patrick.zhongsp@gmail.com> 1562736148 +0800	commit: don't be redundant & redundant pr1067
+cd1ab992b279af9e1f142ce56160320109710140 a88ad1ba901b0f1feeb974b260c285cca83d76f6 zhongsp <patrick.zhongsp@gmail.com> 1562736568 +0800	commit: Add `Omit<T,K>` which was introduced in TypeScript 3.5 pr1065
+a88ad1ba901b0f1feeb974b260c285cca83d76f6 890f990ed2e1ca831c9358d369abf9916925f698 zhongsp <patrick.zhongsp@gmail.com> 1562736869 +0800	commit: substr to substring pr982
+890f990ed2e1ca831c9358d369abf9916925f698 211dcb504b776b0a4d26eb5460912fe5b0c65a06 zhongsp <patrick.zhongsp@gmail.com> 1562737037 +0800	commit: Changed explanation for 'reference types' directive pr980
+211dcb504b776b0a4d26eb5460912fe5b0c65a06 b33d61440c46eb0dac6963002b913a4113926533 zhongsp <patrick.zhongsp@gmail.com> 1564030480 +0800	pull --tags origin master: Fast-forward
+b33d61440c46eb0dac6963002b913a4113926533 9733f00baa45f66ad7e56904f6795382642af673 zhongsp <patrick.zhongsp@gmail.com> 1566529728 +0800	pull --tags origin master: Fast-forward
+9733f00baa45f66ad7e56904f6795382642af673 8bfb080f80d36e62b840811b71ae9e09127defb5 zhongsp <patrick.zhongsp@gmail.com> 1566530283 +0800	commit: Add section about type guards inferred from in operator. PR1036
+8bfb080f80d36e62b840811b71ae9e09127defb5 6f7c425c0245bcf0077d343626e5ee1b34089426 zhongsp <patrick.zhongsp@gmail.com> 1566530494 +0800	commit: fix format
+6f7c425c0245bcf0077d343626e5ee1b34089426 e8b304514c7e7ca31c27e8c857e0ddbe89363cf3 zhongsp <patrick.zhongsp@gmail.com> 1566532610 +0800	commit: Update tuple docs to match post-2.7 behaviour. PR1030
+e8b304514c7e7ca31c27e8c857e0ddbe89363cf3 dc050ffcb016a0f625b105a81fb3a0c78a02f3b6 zhongsp <patrick.zhongsp@gmail.com> 1566532826 +0800	commit: Clarify intent of --mapRoot. PR1028
+dc050ffcb016a0f625b105a81fb3a0c78a02f3b6 7107930a430f39587e263379069534400812c3ab zhongsp <patrick.zhongsp@gmail.com> 1566533041 +0800	commit: "Variable Declarations.md" uses "?" before it is defined in "Functions.md". PR1029
+7107930a430f39587e263379069534400812c3ab cfec9052516357eda47dffca59b038eba0735647 zhongsp <patrick.zhongsp@gmail.com> 1566533261 +0800	commit: clarify explanation of index signatures with union types. PR1019
+cfec9052516357eda47dffca59b038eba0735647 adaa851a7f746c25499b3a6af5194ad73a3725c0 zhongsp <patrick.zhongsp@gmail.com> 1566533316 +0800	commit: typo: fix the first letter of jQuery. PR1040
+adaa851a7f746c25499b3a6af5194ad73a3725c0 27ccbc60c0b416b71487a7849370cab5e68d30f5 zhongsp <patrick.zhongsp@gmail.com> 1566533378 +0800	checkout: moving from master to rn-3.2
+27ccbc60c0b416b71487a7849370cab5e68d30f5 02dd6567dc05dce6e0f94afe99db24d9a4dbc1cf zhongsp <patrick.zhongsp@gmail.com> 1566535140 +0800	commit: finish
+02dd6567dc05dce6e0f94afe99db24d9a4dbc1cf f7015dcdd264de3ce00d5143f7bede0ff2786dcc zhongsp <patrick.zhongsp@gmail.com> 1566553685 +0800	commit: wip
+f7015dcdd264de3ce00d5143f7bede0ff2786dcc afd7eb6f977ea35bb25e574f616ac622bbb8a8fa zhongsp <patrick.zhongsp@gmail.com> 1566553991 +0800	commit: fix: lint errors
+afd7eb6f977ea35bb25e574f616ac622bbb8a8fa adaa851a7f746c25499b3a6af5194ad73a3725c0 zhongsp <patrick.zhongsp@gmail.com> 1566554032 +0800	checkout: moving from rn-3.2 to master
+adaa851a7f746c25499b3a6af5194ad73a3725c0 cd9b08374eab54c4f2e1aab1d72d3e45ac637680 zhongsp <patrick.zhongsp@gmail.com> 1566554037 +0800	pull: Fast-forward
+cd9b08374eab54c4f2e1aab1d72d3e45ac637680 cd9b08374eab54c4f2e1aab1d72d3e45ac637680 zhongsp <patrick.zhongsp@gmail.com> 1566554315 +0800	checkout: moving from master to feat/release-notes-3.3
+cd9b08374eab54c4f2e1aab1d72d3e45ac637680 bec8cc3e2dfd78ab0afc2d3d4dbf286f601595f6 zhongsp <patrick.zhongsp@gmail.com> 1566554327 +0800	commit: wip
+bec8cc3e2dfd78ab0afc2d3d4dbf286f601595f6 cd9b08374eab54c4f2e1aab1d72d3e45ac637680 zhongsp <patrick.zhongsp@gmail.com> 1566554367 +0800	checkout: moving from feat/release-notes-3.3 to master
+cd9b08374eab54c4f2e1aab1d72d3e45ac637680 bec8cc3e2dfd78ab0afc2d3d4dbf286f601595f6 zhongsp <patrick.zhongsp@gmail.com> 1566976463 +0800	checkout: moving from master to feat/release-notes-3.3
+bec8cc3e2dfd78ab0afc2d3d4dbf286f601595f6 af3077399e1b326286cfc88cd92f0a59d765ad40 zhongsp <patrick.zhongsp@gmail.com> 1566976471 +0800	pull: Fast-forward
+af3077399e1b326286cfc88cd92f0a59d765ad40 76e661e968216fa75e1ed5e5a5f4a00c9b2fde4a zhongsp <patrick.zhongsp@gmail.com> 1566978221 +0800	commit: done
+76e661e968216fa75e1ed5e5a5f4a00c9b2fde4a cd9b08374eab54c4f2e1aab1d72d3e45ac637680 zhongsp <patrick.zhongsp@gmail.com> 1566978275 +0800	checkout: moving from feat/release-notes-3.3 to master
+cd9b08374eab54c4f2e1aab1d72d3e45ac637680 4d008013838d0ca6b49c0319e7eb2db219476c54 zhongsp <patrick.zhongsp@gmail.com> 1566978280 +0800	pull: Fast-forward
+4d008013838d0ca6b49c0319e7eb2db219476c54 0897dd05e66b3328157e8855cd18febbacee04a3 zhongsp <patrick.zhongsp@gmail.com> 1568174763 +0800	pull: Fast-forward
+0897dd05e66b3328157e8855cd18febbacee04a3 0897dd05e66b3328157e8855cd18febbacee04a3 zhongsp <patrick.zhongsp@gmail.com> 1568181038 +0800	checkout: moving from master to zhongsp/release-notes-3.4
+0897dd05e66b3328157e8855cd18febbacee04a3 9fd9bf6d268205a64ab6d4b4ddbfe5c2e618d6b9 zhongsp <patrick.zhongsp@gmail.com> 1568181045 +0800	commit: wip
+9fd9bf6d268205a64ab6d4b4ddbfe5c2e618d6b9 0897dd05e66b3328157e8855cd18febbacee04a3 zhongsp <patrick.zhongsp@gmail.com> 1571027892 +0800	checkout: moving from zhongsp/release-notes-3.4 to master
+0897dd05e66b3328157e8855cd18febbacee04a3 f81751f3a71aab9eee80fe3f52e32618562ce41a zhongsp <patrick.zhongsp@gmail.com> 1571027901 +0800	pull: Fast-forward
+f81751f3a71aab9eee80fe3f52e32618562ce41a ef67cd801a1be5f5f007f30b2eb74e25075e83ba zhongsp <patrick.zhongsp@gmail.com> 1571028230 +0800	commit: fix: update `let` section. PR1115
+ef67cd801a1be5f5f007f30b2eb74e25075e83ba 4c5dcd1297023fe91078b7d4d34e7d4821205dae zhongsp <patrick.zhongsp@gmail.com> 1571028353 +0800	commit: Fix typo in JSX Class Component PR1117
+4c5dcd1297023fe91078b7d4d34e7d4821205dae 5c2735314f79260be5df73bfb3386fe1029a99b7 zhongsp <patrick.zhongsp@gmail.com> 1573109894 +0800	pull: Fast-forward
+5c2735314f79260be5df73bfb3386fe1029a99b7 d575737395471d11bf4765e89ac21284983681ad zhongsp <patrick.zhongsp@gmail.com> 1573110010 +0800	commit: Typescript 3.7 released.
+d575737395471d11bf4765e89ac21284983681ad df7bb2d57ba9575dd2e1bf1902c138ff3d05dabe zhongsp <patrick.zhongsp@gmail.com> 1573110258 +0800	commit: Add `bigint` to primitive list PR1126
+df7bb2d57ba9575dd2e1bf1902c138ff3d05dabe e4cd938b73b3baa0563060ae6a1e2310d1cd6f3c zhongsp <patrick.zhongsp@gmail.com> 1579075784 +0800	pull: Fast-forward
+e4cd938b73b3baa0563060ae6a1e2310d1cd6f3c 3db43d6044ae35cac93da4af17f909d325e4826b zhongsp <patrick.zhongsp@gmail.com> 1579076343 +0800	commit: fix: broken links
+3db43d6044ae35cac93da4af17f909d325e4826b fedf360f078c67ffa8e505d39f47eb9eca4e0fdc zhongsp <patrick.zhongsp@gmail.com> 1579077455 +0800	commit: fix: broken links
+fedf360f078c67ffa8e505d39f47eb9eca4e0fdc 805d359c8aa3ef7a18bd2d764917d0c71deb60af zhongsp <patrick.zhongsp@gmail.com> 1597836405 +0800	pull --tags origin master: Fast-forward
+805d359c8aa3ef7a18bd2d764917d0c71deb60af 4a4462a4924d6858719fe27405ff2cd7e88c9b15 zhongsp <patrick.zhongsp@gmail.com> 1597836491 +0800	checkout: moving from master to release/3-9
+4a4462a4924d6858719fe27405ff2cd7e88c9b15 682a06323721326a52637a121dcd907cb83653a6 zhongsp <patrick.zhongsp@gmail.com> 1597837385 +0800	commit: wip: TypeScript 3.9 Release Notes
+682a06323721326a52637a121dcd907cb83653a6 805d359c8aa3ef7a18bd2d764917d0c71deb60af zhongsp <patrick.zhongsp@gmail.com> 1621212139 +0800	checkout: moving from release/3-9 to master
+805d359c8aa3ef7a18bd2d764917d0c71deb60af 65bfd9a6ae3bdadfcfd8bc3e5233fb01749fe2d1 zhongsp <patrick.zhongsp@gmail.com> 1621212153 +0800	checkout: moving from master to dev
+65bfd9a6ae3bdadfcfd8bc3e5233fb01749fe2d1 a99e7fc77dbc8ee30042c2121025e9f5b5647fcc zhongsp <patrick.zhongsp@gmail.com> 1625040535 +0800	checkout: moving from dev to release-notes-4-3
+a99e7fc77dbc8ee30042c2121025e9f5b5647fcc 82e099b5c7a2e780a6d382773130abfe6a10a346 zhongsp <patrick.zhongsp@gmail.com> 1625044480 +0800	commit: 按上下文细化泛型类型
+82e099b5c7a2e780a6d382773130abfe6a10a346 65bfd9a6ae3bdadfcfd8bc3e5233fb01749fe2d1 zhongsp <patrick.zhongsp@gmail.com> 1625044666 +0800	checkout: moving from release-notes-4-3 to dev
+65bfd9a6ae3bdadfcfd8bc3e5233fb01749fe2d1 82e099b5c7a2e780a6d382773130abfe6a10a346 zhongsp <patrick.zhongsp@gmail.com> 1625099082 +0800	checkout: moving from dev to release-notes-4-3
+82e099b5c7a2e780a6d382773130abfe6a10a346 65bfd9a6ae3bdadfcfd8bc3e5233fb01749fe2d1 zhongsp <patrick.zhongsp@gmail.com> 1625453870 +0800	checkout: moving from release-notes-4-3 to dev
+65bfd9a6ae3bdadfcfd8bc3e5233fb01749fe2d1 113d819f64504d1bc4dad991561e953d22c95b70 zhongsp <patrick.zhongsp@gmail.com> 1625453880 +0800	pull: Fast-forward
+113d819f64504d1bc4dad991561e953d22c95b70 8457549a14255b1380521cefa4287394428fbd88 zhongsp <patrick.zhongsp@gmail.com> 1637801907 +0800	pull: Fast-forward
+8457549a14255b1380521cefa4287394428fbd88 8457549a14255b1380521cefa4287394428fbd88 zhongsp <patrick.zhongsp@gmail.com> 1647217472 +0800	checkout: moving from dev to zhongsp/feat-to-book
+8457549a14255b1380521cefa4287394428fbd88 64f2e35004d4f1131010c76fd145b7bec0d54fd7 zhongsp <patrick.zhongsp@gmail.com> 1647225882 +0800	commit: feat: publish a nice book
+64f2e35004d4f1131010c76fd145b7bec0d54fd7 8457549a14255b1380521cefa4287394428fbd88 zhongsp <patrick.zhongsp@gmail.com> 1647226119 +0800	checkout: moving from zhongsp/feat-to-book to dev
+8457549a14255b1380521cefa4287394428fbd88 64f2e35004d4f1131010c76fd145b7bec0d54fd7 zhongsp <patrick.zhongsp@gmail.com> 1647226128 +0800	merge zhongsp/feat-to-book: Fast-forward
+64f2e35004d4f1131010c76fd145b7bec0d54fd7 64f2e35004d4f1131010c76fd145b7bec0d54fd7 zhongsp <patrick.zhongsp@gmail.com> 1647226152 +0800	checkout: moving from dev to gh-pages
+64f2e35004d4f1131010c76fd145b7bec0d54fd7 fef822ed14ce3399081fea33965edb9200cdccc1 zhongsp <patrick.zhongsp@gmail.com> 1647226223 +0800	commit: feat: gh pages
+fef822ed14ce3399081fea33965edb9200cdccc1 64f2e35004d4f1131010c76fd145b7bec0d54fd7 zhongsp <patrick.zhongsp@gmail.com> 1647226549 +0800	checkout: moving from gh-pages to dev
+64f2e35004d4f1131010c76fd145b7bec0d54fd7 8457549a14255b1380521cefa4287394428fbd88 zhongsp <patrick.zhongsp@gmail.com> 1647226652 +0800	reset: moving to HEAD^1
+8457549a14255b1380521cefa4287394428fbd88 6f1e22b1b7d9ee4fde0018af07b7a4dc192563fd zhongsp <patrick.zhongsp@gmail.com> 1647226713 +0800	commit: fix: update
+6f1e22b1b7d9ee4fde0018af07b7a4dc192563fd 6f1e22b1b7d9ee4fde0018af07b7a4dc192563fd zhongsp <patrick.zhongsp@gmail.com> 1647226730 +0800	checkout: moving from dev to gh-pages

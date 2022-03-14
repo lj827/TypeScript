@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 65bfd9a6ae3bdadfcfd8bc3e5233fb01749fe2d1 zhongsp <patrick.zhongsp@gmail.com> 1621212153 +0800	branch: Created from refs/remotes/origin/dev
+65bfd9a6ae3bdadfcfd8bc3e5233fb01749fe2d1 113d819f64504d1bc4dad991561e953d22c95b70 zhongsp <patrick.zhongsp@gmail.com> 1625453880 +0800	pull: Fast-forward
+113d819f64504d1bc4dad991561e953d22c95b70 8457549a14255b1380521cefa4287394428fbd88 zhongsp <patrick.zhongsp@gmail.com> 1637801907 +0800	pull: Fast-forward
+8457549a14255b1380521cefa4287394428fbd88 64f2e35004d4f1131010c76fd145b7bec0d54fd7 zhongsp <patrick.zhongsp@gmail.com> 1647226128 +0800	merge zhongsp/feat-to-book: Fast-forward
+64f2e35004d4f1131010c76fd145b7bec0d54fd7 8457549a14255b1380521cefa4287394428fbd88 zhongsp <patrick.zhongsp@gmail.com> 1647226652 +0800	reset: moving to HEAD^1
+8457549a14255b1380521cefa4287394428fbd88 6f1e22b1b7d9ee4fde0018af07b7a4dc192563fd zhongsp <patrick.zhongsp@gmail.com> 1647226713 +0800	commit: fix: update
