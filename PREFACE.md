@@ -1,5 +1,7 @@
 # 前言
 
+> Repo: https://github.com/zhongsp/TypeScript
+
 该工程是对 TypeScript 官方及开源社区书写的编程手册、版本发布说明等综合内容的中文翻译。
 感谢 Microsoft 和开源社区的工程师们的工作，为 JavaScript 开发带来了全新的体验！
 

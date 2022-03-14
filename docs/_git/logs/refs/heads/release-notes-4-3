@@ -1,2 +1,0 @@
-0000000000000000000000000000000000000000 a99e7fc77dbc8ee30042c2121025e9f5b5647fcc zhongsp <patrick.zhongsp@gmail.com> 1625040535 +0800	branch: Created from origin/release-notes-4-3
-a99e7fc77dbc8ee30042c2121025e9f5b5647fcc 82e099b5c7a2e780a6d382773130abfe6a10a346 zhongsp <patrick.zhongsp@gmail.com> 1625044480 +0800	commit: 按上下文细化泛型类型
